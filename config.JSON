@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "PROJECT_ID",
+  "private_key_id": "PRIVATE_KEY",
+  "private_key": "-----BEGIN PRIVATE KEY-----\PRIVATE_KEY",
+  "client_id": "CLIENT_ID",
+  "auth_uri": "AUTH_URI",
+  "token_uri": "TOKEN_URI",
+  "auth_provider_x509_cert_url": "PROVIDER",
+  "client_x509_cert_url": "CERT_URL",
+  "gsheet": "YOUR_GSHEET_NAME",
+  "bucket": "YOUR-BUCKET"
+}
